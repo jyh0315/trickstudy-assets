@@ -1,7 +1,7 @@
 ViviDivineSkin1.webp
 size:2048,1488
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:450,1435,77,50
 offsets:694,798,1500,1500

@@ -1,7 +1,7 @@
 PolanSkin3.webp
 size:2048,512
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:2,160,65,109
 offsets:0,9,65,118

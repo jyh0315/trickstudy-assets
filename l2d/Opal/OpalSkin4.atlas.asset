@@ -1,7 +1,7 @@
 OpalSkin4.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1038,433,74,60
 offsets:202,42,351,260

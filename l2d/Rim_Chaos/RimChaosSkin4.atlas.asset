@@ -1,7 +1,7 @@
 RimChaosSkin4.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:320,133,77,127
 offsets:13,5,101,141

@@ -1,7 +1,7 @@
 AliceSkin4.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 scale:0.95
 Arm_L_1
 bounds:839,244,89,160

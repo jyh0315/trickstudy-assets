@@ -1,7 +1,7 @@
 FricleSkin3.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_1_L
 bounds:899,391,73,114
 offsets:0,0,75,114

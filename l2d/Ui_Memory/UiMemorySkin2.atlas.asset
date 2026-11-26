@@ -1,7 +1,7 @@
 UiMemorySkin2.webp
 size:2048,1060
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1769,174,78,68
 offsets:488,598,1026,1026

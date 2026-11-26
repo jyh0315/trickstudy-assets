@@ -1,7 +1,7 @@
 ShadyTwisted.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:1052,220,71,139
 rotate:90

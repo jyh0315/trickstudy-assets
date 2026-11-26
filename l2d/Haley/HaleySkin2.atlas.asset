@@ -1,7 +1,7 @@
 HaleySkin2.webp
 size:2048,772
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1892,63,87,55
 Ball_R

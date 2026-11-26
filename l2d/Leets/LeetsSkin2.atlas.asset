@@ -1,7 +1,7 @@
 LeetsSkin2.webp
 size:2048,836
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1_Joint_S2
 bounds:1037,13,51,51
 Uparm_R_1_Joint_S2

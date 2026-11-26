@@ -1,7 +1,7 @@
 KommySwimSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1_S3
 bounds:368,21,83,92
 rotate:270

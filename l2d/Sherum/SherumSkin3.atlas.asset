@@ -1,7 +1,7 @@
 SherumSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:649,100,72,114
 Arm_L_2

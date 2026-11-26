@@ -1,7 +1,7 @@
 Festa.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 S1_Calf_L
 bounds:654,220,113,145
 offsets:0,0,122,145

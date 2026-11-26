@@ -1,7 +1,7 @@
 Aurora.webp
 size:2048,2596
 filter:Linear,Linear
-pma:true
+pma:false
 00_Aurora_Effect_1_1
 bounds:294,1584,446,518
 offsets:129,601,1028,1163

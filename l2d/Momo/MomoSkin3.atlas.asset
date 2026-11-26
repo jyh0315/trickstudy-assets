@@ -1,7 +1,7 @@
 MomoSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ankle_L
 bounds:1393,97,99,67
 Ankle_R

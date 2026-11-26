@@ -1,7 +1,7 @@
 SyllaSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_R_1_Cloth_S3
 bounds:723,344,150,99
 Arm_R_Cloth_Joint_S3

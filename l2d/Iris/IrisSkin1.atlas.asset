@@ -1,7 +1,7 @@
 IrisSkin1.webp
 size:880,2048
 filter:Linear,Linear
-pma:true
+pma:false
 BallL
 bounds:640,65,83,69
 offsets:621,572,1194,1110

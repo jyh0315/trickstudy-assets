@@ -1,7 +1,7 @@
 SellineSkin4.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1863,631,61,46
 offsets:0,0,62,46

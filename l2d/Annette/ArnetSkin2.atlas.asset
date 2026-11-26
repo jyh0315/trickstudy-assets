@@ -1,7 +1,7 @@
 ArnetSkin2.webp
 size:2048,832
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1023,509,63,52
 Ball_R

@@ -1,7 +1,7 @@
 CannaSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_AC_L_1_1
 bounds:888,850,57,22
 Arm_AC_L_1_2

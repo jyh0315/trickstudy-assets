@@ -1,7 +1,7 @@
 JoanneSkin2.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_Joint_2
 bounds:842,482,76,77
 Arm_R _Joint_J_0

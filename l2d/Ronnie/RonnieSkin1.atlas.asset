@@ -1,7 +1,7 @@
 RonnieSkin1.webp
 size:2048,800
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1_S1
 bounds:92,97,85,87
 offsets:396,499,786,1042

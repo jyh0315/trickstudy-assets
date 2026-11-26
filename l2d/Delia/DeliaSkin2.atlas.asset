@@ -1,7 +1,7 @@
 DeliaSkin2.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Anger_L
 bounds:370,24,28,28
 Anger_R

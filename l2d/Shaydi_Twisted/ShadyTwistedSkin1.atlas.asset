@@ -1,7 +1,7 @@
 ShadyTwistedSkin1.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:85,88,93,116
 offsets:1,0,94,116

@@ -1,7 +1,7 @@
 Guin.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:1577,83,91,132
 offsets:0,1,91,138

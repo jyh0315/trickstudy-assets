@@ -1,7 +1,7 @@
 EdRehabSkin1.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 ArmR_Joint_3
 bounds:851,569,45,39
 offsets:193,349,675,842

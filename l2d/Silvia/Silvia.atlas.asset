@@ -1,7 +1,7 @@
 Silvia.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Angry
 bounds:2,64,85,51
 offsets:316,477,786,1042

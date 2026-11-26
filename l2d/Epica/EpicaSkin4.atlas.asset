@@ -1,7 +1,7 @@
 EpicaSkin4.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_Joint_2
 bounds:865,175,56,55
 Arm_Joint_2_2

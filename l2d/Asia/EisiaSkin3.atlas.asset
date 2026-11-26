@@ -1,7 +1,7 @@
 EisiaSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1685,604,79,61
 Ball_R

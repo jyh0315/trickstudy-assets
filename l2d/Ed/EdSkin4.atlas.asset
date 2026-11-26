@@ -1,7 +1,7 @@
 EdSkin4.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1815,1981,67,51
 offsets:0,1,68,52

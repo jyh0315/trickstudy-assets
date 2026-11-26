@@ -1,7 +1,7 @@
 Yumimi.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:941,417,81,95
 rotate:180

@@ -1,7 +1,7 @@
 PosherSkin4.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 S1_F_Ball_L
 bounds:687,185,82,57
 S1_F_Ball_R

@@ -1,7 +1,7 @@
 BlanchetSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:972,189,82,62
 offsets:0,2,82,64

@@ -1,7 +1,7 @@
 VelaSkin4.webp
 size:2048,3096
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_Joint_L_1
 bounds:458,26,41,42
 Arm_Joint_L_1_V2

@@ -1,7 +1,7 @@
 SistSkin2.webp
 size:2048,512
 filter:Linear,Linear
-pma:true
+pma:false
 Gun_M1911
 bounds:1279,11,87,118
 rotate:90

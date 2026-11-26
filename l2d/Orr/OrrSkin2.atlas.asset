@@ -1,7 +1,7 @@
 OrrSkin2.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_1
 bounds:2,231,128,127
 offsets:0,0,128,128

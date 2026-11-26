@@ -1,7 +1,7 @@
 KidianSkin4.webp
 size:2048,512
 filter:Linear,Linear
-pma:true
+pma:false
 S3_Body
 bounds:531,240,147,182
 rotate:180

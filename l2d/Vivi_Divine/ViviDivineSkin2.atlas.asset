@@ -1,7 +1,7 @@
 ViviDivineSkin2.webp
 size:4096,1176
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1_V3
 bounds:2865,1020,64,153
 offsets:646,650,1500,1500

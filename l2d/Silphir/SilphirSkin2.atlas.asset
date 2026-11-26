@@ -1,7 +1,7 @@
 SilphirSkin2.webp
 size:1024,920
 filter:Linear,Linear
-pma:true
+pma:false
 E_Glow_1
 bounds:300,7,39,55
 rotate:90

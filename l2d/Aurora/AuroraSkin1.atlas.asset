@@ -1,7 +1,7 @@
 AuroraSkin1.webp
 size:2048,1152
 filter:Linear,Linear
-pma:true
+pma:false
 00_Aurora_Effect_1_1
 bounds:844,632,446,518
 offsets:129,601,1028,1163

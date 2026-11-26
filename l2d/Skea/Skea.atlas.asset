@@ -1,7 +1,7 @@
 Skea.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Analavos_Body_B
 bounds:887,242,105,198
 offsets:438,371,1026,1026

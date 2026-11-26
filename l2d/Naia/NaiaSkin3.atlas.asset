@@ -1,7 +1,7 @@
 NaiaSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_R_2
 bounds:1378,144,48,40
 Arm_R_Joint_2

@@ -1,7 +1,7 @@
 ChloeSkin1.webp
 size:2048,1236
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1070,792,66,60
 Ball_R

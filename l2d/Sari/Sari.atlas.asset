@@ -1,7 +1,7 @@
 Sari.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_Joint_L_1
 bounds:2,967,59,55
 offsets:7,7,69,69

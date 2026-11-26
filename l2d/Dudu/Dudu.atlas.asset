@@ -1,7 +1,7 @@
 Dudu.webp
 size:2048,820
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:832,28,33,38
 offsets:352,448,806,1042

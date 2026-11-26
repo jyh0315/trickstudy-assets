@@ -1,7 +1,7 @@
 Cuee.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_upper
 bounds:399,131,105,86
 rotate:90

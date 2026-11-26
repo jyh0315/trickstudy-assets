@@ -1,7 +1,7 @@
 NerRageSkin1.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:81,501,78,53
 offsets:205,42,356,223

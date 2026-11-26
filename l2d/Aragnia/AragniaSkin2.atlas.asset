@@ -1,7 +1,7 @@
 AragniaSkin2.webp
 size:2048,920
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:1644,26,55,61
 rotate:270

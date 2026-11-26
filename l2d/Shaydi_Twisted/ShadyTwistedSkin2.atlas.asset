@@ -1,7 +1,7 @@
 ShadyTwistedSkin2.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1268,76,81,75
 offsets:198,43,339,246

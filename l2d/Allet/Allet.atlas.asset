@@ -1,7 +1,7 @@
 Allet.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Angry
 bounds:329,28,50,54
 rotate:90

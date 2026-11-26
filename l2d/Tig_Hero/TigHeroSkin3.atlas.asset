@@ -1,7 +1,7 @@
 TigHeroSkin3.webp
 size:2048,1772
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_Happy
 bounds:1517,22,68,72
 rotate:90

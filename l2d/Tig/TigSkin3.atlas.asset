@@ -1,7 +1,7 @@
 TigSkin3.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 scale:0.96
 Arm_Joint_L
 bounds:478,33,47,47

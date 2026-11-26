@@ -1,7 +1,7 @@
 JubeeSkin1.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Body_1
 bounds:362,339,444,233
 offsets:25,103,498,420

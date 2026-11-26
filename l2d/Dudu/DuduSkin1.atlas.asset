@@ -1,7 +1,7 @@
 DuduSkin1.webp
 size:2048,648
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:397,136,81,68
 offsets:344,503,806,1042

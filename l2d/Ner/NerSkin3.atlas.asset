@@ -1,7 +1,7 @@
 NerSkin3.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:855,225,67,113
 rotate:90

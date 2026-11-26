@@ -1,7 +1,7 @@
 AylaSkin2.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Normal/A_Arm_L_1_ST_Cloth
 bounds:1300,1586,86,91
 Normal/A_Arm_R_1_ST_Cloth

@@ -1,7 +1,7 @@
 Canta.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:651,101,101,97
 offsets:0,0,101,98

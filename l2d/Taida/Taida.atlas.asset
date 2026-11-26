@@ -1,7 +1,7 @@
 Taida.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:537,29,93,89
 rotate:270

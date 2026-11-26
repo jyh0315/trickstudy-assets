@@ -1,7 +1,7 @@
 DayaPureShineSkin2.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:1226,811,64,63
 Arm_L_1_Joint

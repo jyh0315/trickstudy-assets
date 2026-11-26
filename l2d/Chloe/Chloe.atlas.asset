@@ -1,7 +1,7 @@
 Chloe.webp
 size:2048,1140
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:1519,26,66,60
 Ball_R

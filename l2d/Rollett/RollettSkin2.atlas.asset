@@ -1,7 +1,7 @@
 RollettSkin2.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Bidulkun_Body
 bounds:920,147,74,67
 rotate:90

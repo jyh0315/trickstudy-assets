@@ -1,7 +1,7 @@
 Maison.webp
 size:1024,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:504,309,73,60
 Ball_R

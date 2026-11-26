@@ -1,7 +1,7 @@
 HaleySaneSkin1.webp
 size:1024,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Ac_Chest_1
 bounds:924,1008,29,28
 Ac_Chest_2

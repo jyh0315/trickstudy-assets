@@ -1,7 +1,7 @@
 VelaSkin3.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:1757,49,60,102
 rotate:90

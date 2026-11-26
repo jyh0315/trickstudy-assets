@@ -1,7 +1,7 @@
 RanSkin3.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_Fur_F_2
 bounds:377,189,66,116
 rotate:90

@@ -1,7 +1,7 @@
 Joanne.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_Joint_2
 bounds:1840,387,76,77
 rotate:90

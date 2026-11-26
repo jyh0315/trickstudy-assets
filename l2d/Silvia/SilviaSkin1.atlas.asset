@@ -1,7 +1,7 @@
 SilviaSkin1.webp
 size:2048,512
 filter:Linear,Linear
-pma:true
+pma:false
 Angry
 bounds:86,67,85,51
 offsets:316,477,786,1042

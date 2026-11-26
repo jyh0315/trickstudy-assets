@@ -1,7 +1,7 @@
 AshurMagiSkin1.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 scale:1.2
 Angry
 bounds:1339,967,99,74

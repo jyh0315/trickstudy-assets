@@ -1,7 +1,7 @@
 Kishya.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1
 bounds:941,161,87,108
 offsets:380,474,784,1040

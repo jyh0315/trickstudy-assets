@@ -1,7 +1,7 @@
 LeviGraduateSkin1.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_L
 bounds:253,116,94,78
 offsets:388,607,786,1042

@@ -1,7 +1,7 @@
 HaleySaneSkin2.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_Idle_L_2
 bounds:1808,171,96,102
 Arm_Idle_L_2_Joint

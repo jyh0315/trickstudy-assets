@@ -1,7 +1,7 @@
 Bana.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 Ball_Idle_L
 bounds:1643,59,92,69
 offsets:230,36,392,269

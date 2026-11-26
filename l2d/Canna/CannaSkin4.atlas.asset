@@ -1,7 +1,7 @@
 CannaSkin4.webp
 size:2048,1024
 filter:Linear,Linear
-pma:true
+pma:false
 S1_Ear_R
 bounds:2,275,47,49
 rotate:90

@@ -1,7 +1,7 @@
 ChloeSkin5.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L+
 bounds:440,774,27,37
 Arm_R+

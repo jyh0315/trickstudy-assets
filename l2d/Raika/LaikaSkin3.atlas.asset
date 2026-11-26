@@ -1,7 +1,7 @@
 LaikaSkin3.webp
 size:2048,1176
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_Cover
 bounds:1274,878,21,30
 offsets:1,0,22,31

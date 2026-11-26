@@ -1,7 +1,7 @@
 NerRage.webp
 size:2048,2048
 filter:Linear,Linear
-pma:true
+pma:false
 Arm_L_1_New
 bounds:2,152,101,117
 rotate:90
